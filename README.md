@@ -1,6 +1,6 @@
 # 🎯 AI Product Builder (0-to-1) | K-Beauty AI Solutions
 
-> *Bridging AI Technology and Business Value through Data-Driven Strategy*
+> *Startup Operator (Scaled new service 0-100+ users). Now building & launching AI-powered products.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yongrak--pro-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yongrak-pro/)
 [![Website](https://img.shields.io/badge/Website-yongrak.pro-green?style=flat-square&logo=safari)](https://www.yongrak.pro/)
@@ -8,8 +8,8 @@
 
 ## 🔥 Business Impact Highlights
 
-- 📈**Startup Execution**: Launched 'Launch Book Club' service, scaling 0 to 100+ active subscribers.
-- 🎯**AI Project (PoC)**: Designed 'My Beauty AI' (RAG/FastAPI) projecting 26% cost-savings for manual curation.
+- 📈 **Startup Execution**: Launched 'Launch Book Club' service, scaling 0 to 100+ active subscribers.
+- 🎯 **AI Project (PoC)**: Designed 'My Beauty AI' (RAG/FastAPI) projecting 26% cost-savings for manual curation.
 - 💡 **37% Retention Boost** | CRM analytics implementation driving customer lifecycle optimization  
 - 🏆 **Cross-functional Leadership** | Bridge between business strategy and technical implementation
 
