@@ -1,4 +1,4 @@
-# 🎯 AI Business Strategist & Product Manager
+# 🎯 AI Product Builder (0-to-1) | K-Beauty AI Solutions
 
 > *Bridging AI Technology and Business Value through Data-Driven Strategy*
 
@@ -8,8 +8,8 @@
 
 ## 🔥 Business Impact Highlights
 
-- 📈 **900% QoQ Growth** | Led strategic optimization achieving exponential business growth
-- 🎯 **26% ROI Improvement** | Microsoft AI School demand forecasting project for fashion/retail
+- 📈**Startup Execution**: Launched 'Launch Book Club' service, scaling 0 to 100+ active subscribers.
+- 🎯**AI Project (PoC)**: Designed 'My Beauty AI' (RAG/FastAPI) projecting 26% cost-savings for manual curation.
 - 💡 **37% Retention Boost** | CRM analytics implementation driving customer lifecycle optimization  
 - 🏆 **Cross-functional Leadership** | Bridge between business strategy and technical implementation
 
