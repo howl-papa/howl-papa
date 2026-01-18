@@ -13,8 +13,7 @@
 - **Global Market Scaling**: Driving global expansion for K-Beauty SMEs by establishing **Beauty Inside Lab Inc.** (Service Scaling 0→1).
 - **Automated Localization**: Developed **'Localization AI Agent'** to automate context-aware translation, ensuring seamless product adaptation for cross-border e-commerce.
 - **Retail Data Product**: Building **'K-Beauty Export Tracker'** (Next.js/TS) to visualize cross-border trade flow & market trends.
-- **AI Implementation (PoC)**: Engineered **'My Beauty AI'** (RAG/LlamaIndex) reducing manual curation costs by **26%** for retail efficiency.
-- **Engineering Leadership**: Publishing technical insights on **Beauty Insight Lab Blog** regarding AI agents, Data pipelines, and retail data analytics.
+- **Engineering Leadership**: Publishing technical insights on **Beauty Insight Lab Blog** regarding AI agents, RAG pipelines, and retail data analytics.
 
 ## Core Tech Stack
 
@@ -22,11 +21,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-121212?style=for-the-badge&logo=llamaindex&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 
-### **Business Intelligence & Analytics**
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+### **Business Intelligence & Strategy**
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
